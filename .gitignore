@@ -28,7 +28,8 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
 .loadpath
 
 # External tool builders
